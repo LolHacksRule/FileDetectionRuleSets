@@ -658,6 +658,16 @@ some/dir/something.jsk
 pixi.jsk
 sub/dir/pixi.jsk
 package.nwk
+grgl1_dll
+grgl2_dll
+grdx11_dll
+grgles2_dll
+config_lua
+gamesubdir/grgl1_dll
+gamesubdir/grgl2_dll
+gamesubdir/grdx11_dll
+gamesubdir/grgles2_dll
+gamesubdir/config_lua
 sub/dir/package.nwk
 spackage.nw
 SIERRA.EXEF
