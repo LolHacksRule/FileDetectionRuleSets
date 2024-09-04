@@ -1,1 +1,1 @@
-Fusion is Rovio's in-house multiplatform game engine used mostly for Classic Angry Birds games, originally derrived from Jani Kajala's open-source [**KA3D**](https://sourceforge.net/projects/ka3d) engine with plenty of improvements after Rovio bought out the company.
+Fusion is Rovio's in-house multiplatform game engine used mostly for Classic Angry Birds games, originally derrived from Jani Kajala's open-source [**KA3D**](https://sourceforge.net/projects/ka3d) engine from Pixelgene after Rovio bought out the company.
