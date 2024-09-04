@@ -8,7 +8,5 @@ gamesubdir/grgl2.dll
 gamesubdir/grdx11.dll
 gamesubdir/grgles2.dll
 gamesubdir/config.lua
-data/scripts/gamelogic.lua
-data/scripts/options.lua
-gamesubdir/data/scripts/gamelogic.lua
-gamesubdir/data/scripts/options.lua
+/data
+gamesubdir/data
