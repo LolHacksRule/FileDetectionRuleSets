@@ -396,6 +396,9 @@ Sub/Folder/bytecode.rpybeer
 acsetup.cfgoof
 Sub/Folder/acsetup.cfgoof
 pacsetup.cfg
+/jme-core
+/jme3-cor
+/me3-core
 natives_blob.bink
 fnatives_blob.bin
 Sub/Folder/natives_blob.bink
@@ -931,6 +934,9 @@ AGIDATAxOVL
 anvil/archives/Data.sgaa
 anvil/archives/Data.ssga
 anvil/archives/Data_sga
+SharpDX.dl
+SharpDX_dll
+harpDX.dll
 game/bin/linuxsteamrt64/libsteamaudio.soooooo
 SteamAudiooooo.dll
 steamnet.dll
@@ -1071,6 +1077,12 @@ sub/dir/fjoydll.dll
 sub/dir/fGMXInput.dll
 sub/dir/fgm7zip.dll
 game.unxf
+ZZ_1_dat
+ZZ_Win_dat
+ZZZ_1.dat
+ZZZ_Win.dat
+ZZ_1.datt
+ZZ_Win.datt
 game.iosf
 libYoYoGamepad.dylibf
 audiogroup1.datf
@@ -1219,6 +1231,11 @@ common/main.ts.dso
 common/main_cs.dso
 SoundEngine.bundle
 common/defines.xml
+Neoxml
+Neo.xml
+fneox.xml
+neox.fxml
+neox.xmlf
 defines.txt
 00_defines.txt
 /cudar
