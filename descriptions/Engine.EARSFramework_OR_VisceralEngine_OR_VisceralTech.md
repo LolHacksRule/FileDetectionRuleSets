@@ -1,0 +1,3 @@
+**EARS Framework** / **Visceral Tech / Engine** / **Dead Engine** is a multiplatform game engine initally developed by EA Redwood Shores (later on Visceral Games), heavily based off the **RenderWare** and its game framework template. It was first used in **The Godfather: The Game** with the revision used in **Dead Space** being the newer fork of it.
+
+It has no official name aside from "Godfather/Dead Space/Dead engine" and "Visceral Tech/Engine".
